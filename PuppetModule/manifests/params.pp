@@ -1,0 +1,3 @@
+class PuppetModule::params {
+
+}
